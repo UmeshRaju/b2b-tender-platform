@@ -44,3 +44,7 @@ next-env.d.ts
 backend/.env
 frontend/.env
 frontend/.env.local
+
+# But allow example files
+!.env.example
+!*.env.example
