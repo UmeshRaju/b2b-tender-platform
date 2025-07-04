@@ -114,5 +114,3 @@ backend/
 * Tailwind-based responsive UI on frontend
 
 ---
-
-This `architecture.md` helps evaluators and contributors understand the backend logic and integration design of the project.
