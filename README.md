@@ -178,7 +178,7 @@ The platform uses PostgreSQL with the following main tables:
 
 ### 📊 Entity Relationship Diagram
 
-![ER Diagram](./er-diagram.png)
+![ER Diagram](./er-diagram-png.png)
 
 ## 🐳 Docker Support (Optional)
 
