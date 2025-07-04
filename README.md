@@ -114,7 +114,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 ## 🌐 Live Demo
 
-* **Frontend**: [vercel-link](https://b2b-tender-platform-git-main-umesh-rajus-projects.vercel.app)
+* **Frontend**: [vercel-link](https://b2b-tender-platform-jb067esg0-umesh-rajus-projects.vercel.app)
 * **Backend API**: [render-link](https://b2b-backend-q15a.onrender.com)
 
 ## 🏗️ Architecture Overview
